@@ -1,4 +1,4 @@
-# image_app
+# card_connect
 
 A new Flutter project.
 This app demonstrates a single card that displays a user’s basic information.
